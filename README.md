@@ -2,7 +2,6 @@
 
 - 🌱 Atualmente estou aprendendo HTML, CSS e JS.
 - 🤔 Estou procurando colaborar com pessoas que também estejam aprendendo.
-- 📫 Para entrar em contato comigo utilize o e-mail: tiagotnx@gmail.com ou @tiagotnx nas redes sociais
 - ⚡ Curiosidade: Sou formado em Educação Física.
 
 <div align="center">
