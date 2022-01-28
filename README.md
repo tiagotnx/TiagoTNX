@@ -1,8 +1,10 @@
-### Olá! 👋
+### Olá, meu nome é Tiago! 👋
 
 - 🌱 Atualmente estou aprendendo HTML, CSS e JS.
 - 🤔 Estou procurando colaborar com pessoas que também estejam aprendendo.
 - ⚡ Curiosidade: Sou formado em Educação Física.
+
+
 
 <div align="center">
   <a href="https://github.com/tiagotnx">
