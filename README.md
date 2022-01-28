@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/tiago-nascimento-da-silva-b75bba192/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
+####
 
 - 🌱 Atualmente estou aprendendo HTML, CSS e JS.
 - 🤔 Estou procurando colaborar com pessoas que também estejam aprendendo.
