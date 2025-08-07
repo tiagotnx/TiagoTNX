@@ -8,9 +8,6 @@
 
 ####
 
-- 🌱 Atualmente estou aprendendo HTML, CSS, JS e TS.
-- 🤔 Estou procurando colaborar com pessoas que também estejam aprendendo.
-- ⚡ Curiosidade: Sou formado em Educação Física.
 ##
 
 <div align="center">
